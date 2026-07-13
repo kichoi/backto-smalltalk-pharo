@@ -1,0 +1,5 @@
+OrderedDictionary {
+	'Counter.package' : #SquotCypressCodeSerializer,
+	'BaselineOfWeatherAPI.package' : #SquotCypressCodeSerializer,
+	'Weather-API.package' : #SquotCypressCodeSerializer
+}

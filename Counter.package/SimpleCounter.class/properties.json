@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "kchoi 9/30/2019 00:51",
-	"super" : "Object",
 	"category" : "Counter",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kchoi 9/30/2019 00:51",
 	"instvars" : [
-		"count"
-	],
+		"count" ],
 	"name" : "SimpleCounter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
